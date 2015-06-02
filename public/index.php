@@ -1,6 +1,6 @@
 <?php
 
-use DBiT\Controller\BooksController;
+use HpCerGar\Controller\BooksController;
 
 require_once __DIR__.'/../vendor/autoload.php';
 

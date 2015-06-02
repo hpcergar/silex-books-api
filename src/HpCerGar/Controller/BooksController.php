@@ -1,6 +1,6 @@
 <?php
 
-namespace DBiT\Controller;
+namespace HpCerGar\Controller;
 
 use Symfony\Component\HttpFoundation\JsonResponse;
 
