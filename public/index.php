@@ -1,6 +1,6 @@
 <?php
 
-use PurpleBooth\Controller\BooksController;
+use DBiT\Controller\BooksController;
 
 require_once __DIR__.'/../vendor/autoload.php';
 
