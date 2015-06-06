@@ -12,7 +12,7 @@ $app['books.controller'] = $app->share(function() use ($app) {
 });
 
 $app->get('/hello/{name}', function($name) use($app) {
-    return 'Hello '.$app->escape($name);
+    return 'Hola '.$app->escape($name)."\n";
 });
 
 $app->get('/books', "books.controller:indexAction");
